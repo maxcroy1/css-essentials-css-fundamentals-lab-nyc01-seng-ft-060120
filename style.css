@@ -18,3 +18,8 @@ header a {
   padding: 0 10px;
   background-color: grey;
 }
+
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
